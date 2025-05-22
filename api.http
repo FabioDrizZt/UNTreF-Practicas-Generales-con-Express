@@ -4,13 +4,19 @@
 ### Mostrar todas las pelis
 GET http://localhost:3000/peliculas
 
-### Mostrar las pelis de un cierto genero
+### Mostrar las pelis de un cierto genero por query
 GET http://localhost:3000/peliculas?genero=action
+
+### Mostrar las pelis de un cierto genero por query
+GET http://localhost:3000/peliculas?genero=risa
 
 ### Mostrar una peli por id
 GET http://localhost:3000/peliculas/5ad1a235-0d9c-410a-b32b-220d91689a08
 
-### Agregar una peli
+### Mostrar una peli por id que no existe
+GET http://localhost:3000/peliculas/5ad1a335-0d9c-410a-b32b-220d91689a08
+
+### Agregar una peli (el id se genera en el backend)
 POST http://localhost:3000/peliculas/
 content-type: application/json
 
@@ -25,10 +31,10 @@ content-type: application/json
 }
 
 ### Borrar una peli por id
-DELETE http://localhost:3000/peliculas/5ad1a235-0d9c-410a-b32b-220d91689a08
+DELETE http://localhost:3000/peliculas/207afb33-c372-488d-93fd-7ab3a5c582a8
 
 ### Modificar/Actualizar una peli
-PATCH http://localhost:3000/peliculas/5ad1a235-0d9c-410a-b32b-220d91689a08
+PATCH http://localhost:3000/peliculas/207afb33-c372-488d-93fd-7ab3a5c582a8
 content-type: application/json
 
 {

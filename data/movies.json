@@ -23,7 +23,7 @@
       "Crime",
       "Drama"
     ],
-    "rate": 9.0
+    "rate": 9
   },
   {
     "id": "5ad1a235-0d9c-410a-b32b-220d91689a08",
@@ -146,7 +146,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "rate": 8.0
+    "rate": 8
   },
   {
     "id": "7d2832f8-c70a-410e-8963-4c93bf36cc9c",
@@ -190,9 +190,9 @@
   {
     "id": "6a360a18-c645-4b47-9a7b-2a71babbf3e0",
     "title": "Avatar",
-    "year": 2009,
+    "year": 2023,
     "director": "James Cameron",
-    "duration": 162,
+    "duration": 200,
     "poster": "https://i.etsystatic.com/35681979/r/il/dfe3ba/3957859451/il_fullxfull.3957859451_h27r.jpg",
     "genre": [
       "Action",
