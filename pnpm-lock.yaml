@@ -11,6 +11,9 @@ importers:
       express:
         specifier: ^5.1.0
         version: 5.1.0
+      zod:
+        specifier: ^3.25.23
+        version: 3.25.23
 
 packages:
 
@@ -271,6 +274,9 @@ packages:
 
   wrappy@1.0.2:
     resolution: {integrity: sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==}
+
+  zod@3.25.23:
+    resolution: {integrity: sha512-Od2bdMosahjSrSgJtakrwjMDb1zM1A3VIHCPGveZt/3/wlrTWBya2lmEh2OYe4OIu8mPTmmr0gnLHIWQXdtWBg==}
 
 snapshots:
 
@@ -568,3 +574,5 @@ snapshots:
   vary@1.1.2: {}
 
   wrappy@1.0.2: {}
+
+  zod@3.25.23: {}

@@ -200,5 +200,48 @@
       "Fantasy"
     ],
     "rate": 7.8
+  },
+  {
+    "id": "5da9d619-f4a8-4445-8984-302088146e84"
+  },
+  {
+    "id": "e0b38df7-4f84-4cf1-8abb-0722e351b29c",
+    "title": "Mi peli nueva",
+    "year": 2024,
+    "director": "Fabio",
+    "duration": 120,
+    "poster": "https://i.pinimg.com/736x/49/e2/90/49e290a654e5d5bfd6852514307523ec.jpg",
+    "genre": [
+      "Action",
+      "Drama",
+      "Crime"
+    ],
+    "rate": 5
+  },
+  {
+    "id": "4cc3fea1-4f69-4801-9b45-ef42a9f4783b",
+    "title": "Mi peli nueva",
+    "year": 2024,
+    "director": "Fabio",
+    "duration": 120,
+    "genre": [
+      "Action",
+      "Drama",
+      "Crime"
+    ],
+    "rate": 5
+  },
+  {
+    "id": "ccb248cd-471e-4b32-a9b6-35c962213efa",
+    "title": "Mi peli nueva",
+    "year": 2024,
+    "director": "Fabio",
+    "duration": 120,
+    "genre": [
+      "Action",
+      "Drama",
+      "Crime"
+    ],
+    "rate": 5
   }
 ]
